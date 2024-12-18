@@ -1,4 +1,4 @@
-# LA Country Crime Research
+# LA County Crime Research
  
  Authors: [Lucas Condron](https://github.com/),
            [Kenny Ea](https://github.com/),
