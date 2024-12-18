@@ -1,10 +1,12 @@
 # LA Country Crime Research
  
- Authors: [Vasan Insixiengmay](https://github.com/VasanIns),
-           [Jonathan Jin](https://github.com/jjin1407),
+ Authors: [Lucas Condron](https://github.com/),
+           [Kenny Ea](https://github.com/),
           [Michael Camacho](https://github.com/Mcamacho457),
-           [Akshay Jayasinghe](https://github.com/AkJay1722)
+           [Abby Lusherovich](https://github.com/)
+           [Andrey Felix](https://github.com/)
+           [Casey Le](https://github.com/)
 
 Jupyter Notebook: [Final Notebook](final_project.ipynb)
 
-Dataset: [Crime_Data_from_2020_to_Present](Crime_Data_from_2020_to_Present.csv)
+The dataset used for this project can be found through the following link [Crime_Data_from_2020_to_Present](https://catalog.data.gov/dataset/crime-data-from-2020-to-present).
